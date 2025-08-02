@@ -1,6 +1,4 @@
-// ==============================================
 // Sample MongoDB Script for Leaderboard System
-// ==============================================
 
 // Insert Users
 db.users.insertMany([
@@ -220,7 +218,7 @@ db.leaderboards.insertMany([
   }
 ]);
 
-// ================== Queries ==================
+// Queries 
 
 // 1. Top 3 Learners in Challenge "C001"
 db.leaderboards.aggregate([
