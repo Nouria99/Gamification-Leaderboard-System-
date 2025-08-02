@@ -7,18 +7,11 @@ It includes multiple collections such as users, activities, badges, challenges, 
 ### Top 3 Users Aggregation Query
 <img src="screenshots/top3.png" alt="Top 3 Learners" width="500"/>
 ### User Badges Projection
-![User Badges](https://raw.githubusercontent.com/Nouria99/Gamification-Leaderboard-System-/4bbd5021d521a4a14858edf1ed660dd2f643710b/image.png?raw=true)
-### Activities by User Sorted by Date  
-![User Activities](https://github.com/Nouria99/Gamification-Leaderboard-System-/blob/main/activities.png?raw=true)
-### Total Points Earned by a User  
-![User Points](https://github.com/Nouria99/Gamification-Leaderboard-System-/blob/main/users.png?raw=true)
-
-## 📸 Screenshots
-
-### Query: Badges Earned by a User  
 <img src="screenshots/image.png" alt="User Badges" width="500"/>
-### Query: Activities by User Sorted by Date  
+### Activities by User Sorted by Date  
 <img src="screenshots/activities.png" alt="User Activities" width="500"/>
-### Query: Total Points Earned by a User  
+### Total Points Earned by a User  
 <img src="screenshots/users.png" alt="User Points" width="500"/>
+
+
 
