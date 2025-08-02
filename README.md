@@ -13,3 +13,22 @@ It includes multiple collections such as users, activities, badges, challenges, 
 ### Total Points Earned by a User  
 ![User Points](https://github.com/Nouria99/Gamification-Leaderboard-System-/blob/main/users.png?raw=true)
 
+## 📸 Screenshots
+
+### Query: Top 3 Learners  
+<img src="screenshots/top3query.png" alt="Top 3 Learners" width="500"/>
+
+### Query: Badges Earned by a User  
+<img src="screenshots/userbadges.png" alt="User Badges" width="500"/>
+
+### Query: Activities by User Sorted by Date  
+<img src="screenshots/useractivities.png" alt="User Activities" width="500"/>
+
+### Query: High Scoring Learners  
+<img src="screenshots/highscorers.png" alt="High Scorers" width="500"/>
+
+### Query: Users with Specific Badge  
+<img src="screenshots/specificbadge.png" alt="Specific Badge" width="500"/>
+
+### Query: Total Points Earned by a User  
+<img src="screenshots/userpoints.png" alt="User Points" width="500"/>
