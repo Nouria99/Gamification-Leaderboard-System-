@@ -9,7 +9,7 @@ It includes multiple collections such as users, activities, badges, challenges, 
 ### User Badges Projection
 ![User Badges](https://raw.githubusercontent.com/Nouria99/Gamification-Leaderboard-System-/4bbd5021d521a4a14858edf1ed660dd2f643710b/image.png?raw=true)
 ### Activities by User Sorted by Date  
-![User Activities]([screenshots/useractivities.png](https://github.com/Nouria99/Gamification-Leaderboard-System-/blob/main/activities.png?raw=true)
+![User Activities](https://github.com/Nouria99/Gamification-Leaderboard-System-/blob/main/activities.png?raw=true)
 ### Total Points Earned by a User  
-![User Points](screenshots/userpoints.png)
+![User Points](https://github.com/Nouria99/Gamification-Leaderboard-System-/blob/main/users.png?raw=true)
 
