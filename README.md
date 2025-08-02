@@ -16,13 +16,13 @@ It includes multiple collections such as users, activities, badges, challenges, 
 ## 📸 Screenshots
 
 ### Query: Top 3 Learners  
-<img src="screenshots/top3query.png" alt="Top 3 Learners" width="500"/>
+<img src="screenshots/top3.png" alt="Top 3 Learners" width="500"/>
 
 ### Query: Badges Earned by a User  
 <img src="screenshots/userbadges.png" alt="User Badges" width="500"/>
 
 ### Query: Activities by User Sorted by Date  
-<img src="screenshots/useractivities.png" alt="User Activities" width="500"/>
+<img src="screenshots/activities.png" alt="User Activities" width="500"/>
 
 ### Query: High Scoring Learners  
 <img src="screenshots/highscorers.png" alt="High Scorers" width="500"/>
@@ -32,3 +32,4 @@ It includes multiple collections such as users, activities, badges, challenges, 
 
 ### Query: Total Points Earned by a User  
 <img src="screenshots/userpoints.png" alt="User Points" width="500"/>
+
